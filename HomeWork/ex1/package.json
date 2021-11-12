@@ -1,0 +1,15 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "ex1",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Bader Daka",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "winston": "^3.3.3"
+  }
+}

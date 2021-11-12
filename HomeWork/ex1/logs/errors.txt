@@ -1,0 +1,14 @@
+{"level":"error","message":"POST /users && there is not a member id "}
+{"level":"error","message":"POST /users/213833477 && there is not a member id "}
+{"level":"error","message":"GET /userg && The path is not correct"}
+{"level":"error","message":"COPY /userg && The path is not correct"}
+{"level":"error","message":"OPTIONS /userg && The path is not correct"}
+{"level":"error","message":"PATCH /users && we do not support this method "}
+{"level":"error","message":"POST /users/213833477%20 && there is not a member id "}
+{"level":"error","message":"GET /vocations && there is no vocations already "}
+{"level":"error","message":"GET /vocations && there is no vocations already "}
+{"level":"error","message":"GET /vocations && there is no vocations already "}
+{"level":"error","message":"POST /vocations && there is not a member_id or date_id to books to a vocation"}
+{"level":"error","message":"GET /vocations && there is no vocations already "}
+{"level":"error","message":"GET /vocations && there is no vocations already "}
+{"level":"error","message":"DELETE /vocations && there is not a member id "}
